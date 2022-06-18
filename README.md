@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning web dev and dsa
 - 💬 Currently I'm doing my BTech at IIT Ropar in Computer Science
 - ⚡ My interests include reading books, coding, movies, tech channels
-- 📫 How to reach me: aryaphalke2003@gmail.com 
-- 🧑‍💼 Linkedin: linkedin.com/in/arya-phalke-3108081ba/
+- 📫 Here's my mail aryaphalke2003@gmail.com 
+- 🧑‍💼 Also you can ping me on my insta handle @_aryaraje_
 
 
 <!--
