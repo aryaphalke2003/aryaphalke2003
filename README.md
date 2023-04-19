@@ -3,7 +3,7 @@
 - 💬 Currently I'm doing my BTech at IIT Ropar in Computer Science
 - ⚡ My interests include reading books, coding, movies, tech channels
 - 📫 Here's my mail aryaphalke2003@gmail.com 
-- 🧑‍💼 Also you can ping me on my insta handle [`@_aryaraje_`](https://www.instagram.com/_aryaraje_/)
+- 🧑‍💼 Also you can ping me on my insta handle [**@aryaraje**](https://www.instagram.com/_aryaraje_/)
 
 
 <!--
