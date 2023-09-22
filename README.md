@@ -1,8 +1,5 @@
 <h2 align="center">Hey 👋, I'm Arya Phalke</h2>
-<!-- <h3 align="center">A passionate Web developer and Programmer.</h3>                                                         -->
-<!-- <h1 align="left"> < Hello Friends🚀, I'm Arya Phalke<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2> -->
 <img width="40%" img src="https://static.wixstatic.com/media/0c774c_51d91940ad5f4c5ab49a4cd8c762f4b6~mv2.gif" align="right"/>
-<!-- <img width="40%" src="https://static.wixstatic.com/media/0c774c_51d91940ad5f4c5ab49a4cd8c762f4b6~mv2.gif" style="float: right;"/> -->
 
 
 - ⚡ Passionate about development!
@@ -21,14 +18,3 @@
 <img width="48%" img src="https://github-readme-stats.vercel.app/api?username=aryaphalke2003&theme=radical&show_icons=true">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaphalke2003&theme=radical&show_icons=true" />
 
-<!--
-**aryaphalke2003/aryaphalke2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-✨ _special_ ✨
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on any backend proje
-- 🤔 I’m looking for help with ...
-
-
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
--->
